@@ -3,8 +3,6 @@
 *.terraform*
 *.lock*
 
-training.pem
-
 # .tfstate files
 #terrafor.tfstate
 *.tfstate*
